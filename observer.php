@@ -9,7 +9,6 @@ if ($connection)
 	} else
 		{
 		return '<div class="bg-danger text-white text-center">OFFLINE</div>';
-		//return '<p class="text-danger"><strong>OFFLINE! </strong></p>' . $errno . ' ' . $errstr;
 		}
 	}
 
