@@ -48,5 +48,3 @@ Then open web browser and visit index.php and see which services are online and 
 
 This project is licensed under the MIT License.
 
-* 
-
