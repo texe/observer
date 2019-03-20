@@ -38,7 +38,7 @@ Just fill IP address of service, port and name (short description). In the repos
 
 Then open web browser and visit index.php and see which services are online and offline:
 
-![1553079167294](/home/dio/Documents/git/observer/ObserverScreenshot.png)
+![ObserverScreenshot](https://github.com/texe/observer/blob/master/ObserverScreenshot.png)
 
 ## Authors
 
